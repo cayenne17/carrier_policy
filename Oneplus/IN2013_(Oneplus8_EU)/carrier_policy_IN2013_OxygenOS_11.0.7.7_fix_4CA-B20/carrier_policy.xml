@@ -21,7 +21,7 @@
 
       <define_fullrat_config>
         <actions>
-          <rat_capability base="none" > <include> G W T L C H</include> </rat_capability>
+          <rat_capability base="none" > <include> G W T L C H 5G </include> </rat_capability>
           <rf_bands base="hardware" />
           <svc_mode> FULL </svc_mode>
           <freq_list list="default" />
